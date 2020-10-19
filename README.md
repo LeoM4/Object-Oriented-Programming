@@ -5,7 +5,7 @@
 Dr. Alan Kay on the Meaning of “Object-Oriented Programming”
 
 E-Mail of 2003-07-23
-Dr. Alan Kay was so kind as to answer my questions about the term “object-oriented programming”.
+Dr. Alan Kay was so kind as to answer my questions about the term “object-oriented programming”.  
 Date: Wed, 23 Jul 2003 09:33:31 -0800
 
 ******************************
