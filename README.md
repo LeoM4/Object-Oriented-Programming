@@ -1,7 +1,4 @@
 # Object-Oriented-Programming
-
-
-
 Dr. Alan Kay on the Meaning of “Object-Oriented Programming”
 
 E-Mail of 2003-07-23
